@@ -16,7 +16,7 @@ h1 {
 
 .left-column {
 	float: left;
-	height: 500px;
+	height: 100%;
 	width: 20%;
 	color: white;
 	background: rgb(14, 14, 14);
@@ -24,7 +24,7 @@ h1 {
 
 .center-column {
 	margin: auto;
-	height: 500px;
+	height: 100%;
 	width: 50%;
 	color: white;
 	background: rgb(14, 14, 14);
@@ -33,7 +33,7 @@ h1 {
 
 .right-column {
 	float: right;
-	height: 500px;
+	height: 100%;
 	width: 20%;
 	color: white;
 	background: rgb(14, 14, 14);
