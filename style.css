@@ -1,0 +1,45 @@
+.algonquin {
+	width: 100%;
+	height: 1000px;
+}
+
+.header {
+	position: sticky;
+	width: 100%;
+	background: rgb(14, 14, 14);
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+.left-column {
+	float: left;
+	height: 500px;
+	width: 20%;
+	color: white;
+	background: rgb(14, 14, 14);
+}
+
+.center-column {
+	margin: auto;
+	height: 500px;
+	width: 50%;
+	color: white;
+	background: rgb(14, 14, 14);
+	padding: 10px;
+}
+
+.right-column {
+	float: right;
+	height: 500px;
+	width: 20%;
+	color: white;
+	background: rgb(14, 14, 14);
+}
+
+.left-column-head {
+	font-size: 30px;
+	text-align: center;
+}
